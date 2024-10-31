@@ -1,0 +1,32 @@
+.rdv360-settings h2 {
+	font-size: 1.5em;
+}
+
+.rdv360-settings section {
+	margin-top: 3em;
+}
+
+.rdv360-settings ul {
+	padding-left: 3em;
+}
+
+.rdv360-settings ul li {
+	list-style: disc;
+}
+
+.rdv360-settings form {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-column-gap: 2em;
+}
+
+.rdv360-settings #help .howto {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+@media screen and (max-width: 550px) {
+	.rdv360-settings #help .howto {
+		grid-template-columns: 1fr;
+	}
+}

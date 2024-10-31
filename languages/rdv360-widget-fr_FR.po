@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "1. API Parameters"
+msgstr "1. Paramètre API"
+
+msgid "API key"
+msgstr "Clé API"
+
+msgid "API secret"
+msgstr "Secret API"
+
+msgid "2. Widget options"
+msgstr "2. Options du widget"
+
+msgid "Hide menu ?"
+msgstr "Masquer le menu ?"
+
+msgid "Hide account ?"
+msgstr "Masquer le compte utilisateur"
+
+msgid "Hide gift ?"
+msgstr "Masquer \"Offrir\""
+
+msgid "Landing page"
+msgstr "Page d'arrivée"
+
+msgid "Set API connexion parameters"
+msgstr "Renseignez les paramètres de connexion à l'API"
+
+msgid "You can find them on your RDV360 account (Config > API RDV360)."
+msgstr ""
+"Vous trouverez vos paramètres API sur votre compte RDV360 (\"Config\" > "
+"\"API RDV360\")."
